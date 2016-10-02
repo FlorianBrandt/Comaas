@@ -14,6 +14,13 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+.idea/Comaas.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/
+
+
 # Windows shortcuts
 *.lnk
 
